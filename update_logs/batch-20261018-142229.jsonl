@@ -1,0 +1,5 @@
+{"time": "2026-10-18T14:22:32", "event": "series_start", "path": "Z:\\Manga\\citrus+_三郎太", "slug": "citrus02", "missing": 0, "remote_latest": "40"}
+{"time": "2026-10-18T14:22:32", "event": "series_done", "path": "Z:\\Manga\\citrus+_三郎太", "slug": "citrus02"}
+{"time": "2026-10-18T14:22:36", "event": "series_start", "path": "Z:\\Manga\\New Game!", "slug": "newgame", "missing": 1, "remote_latest": "151"}
+{"time": "2026-10-18T14:23:07", "event": "chapter_done", "path": "Z:\\Manga\\New Game!", "slug": "newgame", "number": "11", "result": "已完成"}
+{"time": "2026-10-18T14:23:07", "event": "limit_reached", "chapters": 1}

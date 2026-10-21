@@ -5,7 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # 定义主目录
-base_folder = r"Z:\Manga\Downloads\zh.copymanga"
+base_folder = r"Z:\Manga\Downloads\ToMerge"
 base_url = "https://www.copymanga.tv/comic"
 
 # 创建保存结果的文件

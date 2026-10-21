@@ -1,7 +1,7 @@
 import os
 
 # 指定漫画文件夹路径
-base = r"Z:\Manga\Downloads\zh.dmzj\54892"
+base = r"Z:\Manga\世界最強暗殺者轉生成異世界貴族_月夜淚_皇ハマオ"
 
 
 def get_sorted_chapters(folder_path):
@@ -16,7 +16,7 @@ def get_sorted_chapters(folder_path):
         if os.path.isdir(os.path.join(folder_path, chapter))
     ]
     # 按时间倒序排列
-    return sorted(chapters, key=lambda x: x[1], reverse=False)
+    return sorted(chapters, key=lambda x: x[1], reverse=True)
 
 
 def rename_chapters(folder_path):
@@ -29,7 +29,7 @@ def rename_chapters(folder_path):
 
     # 找到“第01话”的索引
     for idx, (chapter, _) in enumerate(sorted_chapters):
-        if chapter.startswith("第01话"):
+        if chapter.startswith("第00话"):
             start_index = idx
             break
 
@@ -38,7 +38,7 @@ def rename_chapters(folder_path):
         return
 
     # 按顺序重命名后续文件夹
-    counter = 2
+    counter = 1
     for chapter, _ in sorted_chapters[start_index + 1:]:
         if chapter.startswith("第") and chapter.endswith("话"):
             print(f"文件夹 {chapter} 已被重命名，跳过。")

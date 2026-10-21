@@ -1,0 +1,18 @@
+{
+  "running": false,
+  "started": "2026-10-19T22:48:04",
+  "total_series": 100,
+  "planned_chapters": 1560,
+  "completed_series": 100,
+  "completed_chapters": 640,
+  "current_series": "Z:\\Manga\\『你們先走我斷後』，於是10年後我成為了傳說",
+  "current_chapter": "45.5",
+  "current_kind": "chapter",
+  "current_page": "第45.5话：11/11 页",
+  "last_error": "",
+  "log": "C:\\Users\\24735\\comic_converter\\update_logs\\batch-20261019-224804.jsonl",
+  "phase": "全部完成",
+  "outcome": "complete",
+  "retry": "",
+  "updated_at": "2026-10-20T13:37:55"
+}

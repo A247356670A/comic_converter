@@ -1,0 +1,155 @@
+{"time": "2026-10-18T20:08:54", "event": "series_start", "path": "Z:\\Manga\\citrus+_三郎太", "slug": "citrus02", "missing": 0, "remote_latest": "40"}
+{"time": "2026-10-18T20:08:54", "event": "series_done", "path": "Z:\\Manga\\citrus+_三郎太", "slug": "citrus02"}
+{"time": "2026-10-18T20:08:59", "event": "series_start", "path": "Z:\\Manga\\New Game!", "slug": "newgame", "missing": 0, "remote_latest": "151"}
+{"time": "2026-10-18T20:08:59", "event": "series_done", "path": "Z:\\Manga\\New Game!", "slug": "newgame"}
+{"time": "2026-10-18T20:09:02", "event": "series_start", "path": "Z:\\Manga\\成為鐵匠在異世界度過悠閒人生_日森よしの_たままる", "slug": "chengweitiejiangzaiyishijieduguoyouxianrensheng", "missing": 1, "remote_latest": "25"}
+{"time": "2026-10-18T20:09:58", "event": "chapter_done", "path": "Z:\\Manga\\成為鐵匠在異世界度過悠閒人生_日森よしの_たままる", "slug": "chengweitiejiangzaiyishijieduguoyouxianrensheng", "number": "25", "result": "已完成"}
+{"time": "2026-10-18T20:09:58", "event": "series_done", "path": "Z:\\Manga\\成為鐵匠在異世界度過悠閒人生_日森よしの_たままる", "slug": "chengweitiejiangzaiyishijieduguoyouxianrensheng"}
+{"time": "2026-10-18T20:10:01", "event": "series_start", "path": "Z:\\Manga\\關於四個持有負面技能的人聚在一起，就會發生相乘作用的最強隊伍這件事_小鈴危一_太平洋海", "slug": "guanyusigechiyoufumianjinengderenjuzaiyiqijiuhuifa", "missing": 0, "remote_latest": "10"}
+{"time": "2026-10-18T20:10:01", "event": "series_done", "path": "Z:\\Manga\\關於四個持有負面技能的人聚在一起，就會發生相乘作用的最強隊伍這件事_小鈴危一_太平洋海", "slug": "guanyusigechiyoufumianjinengderenjuzaiyiqijiuhuifa"}
+{"time": "2026-10-18T20:10:05", "event": "series_start", "path": "Z:\\Manga\\Slow Start", "slug": "slowstart", "missing": 0, "remote_latest": "110"}
+{"time": "2026-10-18T20:10:05", "event": "series_done", "path": "Z:\\Manga\\Slow Start", "slug": "slowstart"}
+{"time": "2026-10-18T20:10:08", "event": "series_start", "path": "Z:\\Manga\\異世界求食的開掛旅程", "slug": "yishijieqiushi", "missing": 0, "remote_latest": "48"}
+{"time": "2026-10-18T20:10:08", "event": "series_done", "path": "Z:\\Manga\\異世界求食的開掛旅程", "slug": "yishijieqiushi"}
+{"time": "2026-10-18T20:10:10", "event": "series_start", "path": "Z:\\Manga\\鹿乃子乃子虎視眈眈", "slug": "lunaizinaizihushidandan", "missing": 0, "remote_latest": "48"}
+{"time": "2026-10-18T20:10:10", "event": "series_done", "path": "Z:\\Manga\\鹿乃子乃子虎視眈眈", "slug": "lunaizinaizihushidandan"}
+{"time": "2026-10-18T20:10:14", "event": "series_start", "path": "Z:\\Manga\\明明是以劍士為目標入學的 魔法適性卻有9999！？", "slug": "mmsyjswmbrxdmfsyxqy9999", "missing": 0, "remote_latest": "55"}
+{"time": "2026-10-18T20:10:14", "event": "series_done", "path": "Z:\\Manga\\明明是以劍士為目標入學的 魔法適性卻有9999！？", "slug": "mmsyjswmbrxdmfsyxqy9999"}
+{"time": "2026-10-18T20:10:17", "event": "series_start", "path": "Z:\\Manga\\賢者大叔的異世界生活日記", "slug": "xianzhedashudeyishijieshenghuoriji", "missing": 0, "remote_latest": "52"}
+{"time": "2026-10-18T20:10:17", "event": "series_done", "path": "Z:\\Manga\\賢者大叔的異世界生活日記", "slug": "xianzhedashudeyishijieshenghuoriji"}
+{"time": "2026-10-18T20:10:20", "event": "series_start", "path": "Z:\\Manga\\凹凸魔女的母女故事_ピロヤ", "slug": "aotumonvdemunvgushi", "missing": 0, "remote_latest": "49"}
+{"time": "2026-10-18T20:10:20", "event": "series_done", "path": "Z:\\Manga\\凹凸魔女的母女故事_ピロヤ", "slug": "aotumonvdemunvgushi"}
+{"time": "2026-10-18T20:10:24", "event": "series_start", "path": "Z:\\Manga\\關於我轉生變成史萊姆這檔事 異聞 魔國生活的三位一體_戸野タエ_伏瀬", "slug": "gywzsbcslmzdsywmgshdswyt", "missing": 0, "remote_latest": "75"}
+{"time": "2026-10-18T20:10:24", "event": "series_done", "path": "Z:\\Manga\\關於我轉生變成史萊姆這檔事 異聞 魔國生活的三位一體_戸野タエ_伏瀬", "slug": "gywzsbcslmzdsywmgshdswyt"}
+{"time": "2026-10-18T20:10:27", "event": "series_start", "path": "Z:\\Manga\\利阿迪爾的大地之上", "slug": "liadierdedadishang", "missing": 0, "remote_latest": "36"}
+{"time": "2026-10-18T20:10:27", "event": "series_done", "path": "Z:\\Manga\\利阿迪爾的大地之上", "slug": "liadierdedadishang"}
+{"time": "2026-10-18T20:10:30", "event": "series_start", "path": "Z:\\Manga\\overlord", "slug": "overlord", "missing": 0, "remote_latest": "55"}
+{"time": "2026-10-18T20:10:30", "event": "series_done", "path": "Z:\\Manga\\overlord", "slug": "overlord"}
+{"time": "2026-10-18T20:10:34", "event": "series_start", "path": "Z:\\Manga\\從死亡之旅開始的異世界狂想曲_あやめぐむ_爱七ひろ", "slug": "cswzlksdysjkxq", "missing": 0, "remote_latest": "119"}
+{"time": "2026-10-18T20:10:34", "event": "series_done", "path": "Z:\\Manga\\從死亡之旅開始的異世界狂想曲_あやめぐむ_爱七ひろ", "slug": "cswzlksdysjkxq"}
+{"time": "2026-10-18T20:10:37", "event": "series_start", "path": "Z:\\Manga\\世界第一喜歡歐派", "slug": "shijiediyixihuanoupai", "missing": 0, "remote_latest": "70"}
+{"time": "2026-10-18T20:10:37", "event": "series_done", "path": "Z:\\Manga\\世界第一喜歡歐派", "slug": "shijiediyixihuanoupai"}
+{"time": "2026-10-18T20:10:40", "event": "series_start", "path": "Z:\\Manga\\新米煉金術師的店鋪經營", "slug": "xinmilianjinsushidedianpujinying", "missing": 0, "remote_latest": "46"}
+{"time": "2026-10-18T20:10:40", "event": "series_done", "path": "Z:\\Manga\\新米煉金術師的店鋪經營", "slug": "xinmilianjinsushidedianpujinying"}
+{"time": "2026-10-18T20:10:44", "event": "series_start", "path": "Z:\\Manga\\成為百合的Espoir_なおいまい", "slug": "chengweibaihedeespoir", "missing": 0, "remote_latest": "21.2"}
+{"time": "2026-10-18T20:10:44", "event": "series_done", "path": "Z:\\Manga\\成為百合的Espoir_なおいまい", "slug": "chengweibaihedeespoir"}
+{"time": "2026-10-18T20:10:46", "event": "series_start", "path": "Z:\\Manga\\想被那個害羞的孩子親近", "slug": "xiangbeinghxdhaiziqingjing", "missing": 0, "remote_latest": "16"}
+{"time": "2026-10-18T20:10:46", "event": "series_done", "path": "Z:\\Manga\\想被那個害羞的孩子親近", "slug": "xiangbeinghxdhaiziqingjing"}
+{"time": "2026-10-18T20:10:49", "event": "series_start", "path": "Z:\\Manga\\嚮往『英雄』的少女就算淪落為吸血鬼也想成為『英雄』", "slug": "xiangwangyingxiongdeshaonvjiusuanlunluoweixixuegui", "missing": 0, "remote_latest": "16"}
+{"time": "2026-10-18T20:10:49", "event": "series_done", "path": "Z:\\Manga\\嚮往『英雄』的少女就算淪落為吸血鬼也想成為『英雄』", "slug": "xiangwangyingxiongdeshaonvjiusuanlunluoweixixuegui"}
+{"time": "2026-10-18T20:10:52", "event": "series_start", "path": "Z:\\Manga\\性欲很旺盛的她", "slug": "xingyuhenwangshengdeta", "missing": 0, "remote_latest": "30"}
+{"time": "2026-10-18T20:10:52", "event": "series_done", "path": "Z:\\Manga\\性欲很旺盛的她", "slug": "xingyuhenwangshengdeta"}
+{"time": "2026-10-18T20:10:56", "event": "series_start", "path": "Z:\\Manga\\百合姐妹的自炊雙人餐_柊ゆたか", "slug": "bhjmdzcsrc", "missing": 0, "remote_latest": "73"}
+{"time": "2026-10-18T20:10:56", "event": "series_done", "path": "Z:\\Manga\\百合姐妹的自炊雙人餐_柊ゆたか", "slug": "bhjmdzcsrc"}
+{"time": "2026-10-18T20:11:00", "event": "series_start", "path": "Z:\\Manga\\100天百合作畫挑戰", "slug": "100tianbaihezuohuatiaozhan", "missing": 0, "remote_latest": "100"}
+{"time": "2026-10-18T20:11:00", "event": "series_done", "path": "Z:\\Manga\\100天百合作畫挑戰", "slug": "100tianbaihezuohuatiaozhan"}
+{"time": "2026-10-18T20:11:03", "event": "series_start", "path": "Z:\\Manga\\飛翔的魔女_石塚千寻", "slug": "feixiangdemonv", "missing": 0, "remote_latest": "92"}
+{"time": "2026-10-18T20:11:03", "event": "series_done", "path": "Z:\\Manga\\飛翔的魔女_石塚千寻", "slug": "feixiangdemonv"}
+{"time": "2026-10-18T20:11:06", "event": "series_start", "path": "Z:\\Manga\\小春日和", "slug": "xiaochunrihe", "missing": 0, "remote_latest": "52"}
+{"time": "2026-10-18T20:11:06", "event": "series_done", "path": "Z:\\Manga\\小春日和", "slug": "xiaochunrihe"}
+{"time": "2026-10-18T20:11:11", "event": "series_start", "path": "Z:\\Manga\\公主大人，接下來是“拷問”時間_春原ロビンン_ひらけい", "slug": "gongzhudarenjiexialaishikaowenshijian", "missing": 0, "remote_latest": "253"}
+{"time": "2026-10-18T20:11:11", "event": "series_done", "path": "Z:\\Manga\\公主大人，接下來是“拷問”時間_春原ロビンン_ひらけい", "slug": "gongzhudarenjiexialaishikaowenshijian"}
+{"time": "2026-10-18T20:11:14", "event": "series_start", "path": "Z:\\Manga\\紅魔館的女人們_risui", "slug": "hmgdnrm", "missing": 0, "remote_latest": "17"}
+{"time": "2026-10-18T20:11:14", "event": "series_done", "path": "Z:\\Manga\\紅魔館的女人們_risui", "slug": "hmgdnrm"}
+{"time": "2026-10-18T20:11:18", "event": "series_start", "path": "Z:\\Manga\\精靈來日", "slug": "jinglinglairi", "missing": 0, "remote_latest": "68"}
+{"time": "2026-10-18T20:11:18", "event": "series_done", "path": "Z:\\Manga\\精靈來日", "slug": "jinglinglairi"}
+{"time": "2026-10-18T20:11:21", "event": "series_start", "path": "Z:\\Manga\\平良深姐妹都“病”得不輕", "slug": "pingliangshenjiemeidoubingdebuqing", "missing": 0, "remote_latest": "28"}
+{"time": "2026-10-18T20:11:21", "event": "series_done", "path": "Z:\\Manga\\平良深姐妹都“病”得不輕", "slug": "pingliangshenjiemeidoubingdebuqing"}
+{"time": "2026-10-18T20:11:25", "event": "series_start", "path": "Z:\\Manga\\異世界悠閑農家", "slug": "yishijieyouxiannongjia", "missing": 0, "remote_latest": "281"}
+{"time": "2026-10-18T20:11:25", "event": "series_done", "path": "Z:\\Manga\\異世界悠閑農家", "slug": "yishijieyouxiannongjia"}
+{"time": "2026-10-18T20:11:28", "event": "series_start", "path": "Z:\\Manga\\月付房租 帶院子帶房東", "slug": "yuefufangzudaiyuanzidaifangdong", "missing": 0, "remote_latest": "31"}
+{"time": "2026-10-18T20:11:28", "event": "series_done", "path": "Z:\\Manga\\月付房租 帶院子帶房東", "slug": "yuefufangzudaiyuanzidaifangdong"}
+{"time": "2026-10-18T20:11:31", "event": "series_start", "path": "Z:\\Manga\\聲優廣播的台前幕後", "slug": "shengyouguangbodetaiqianmuhou", "missing": 0, "remote_latest": "29"}
+{"time": "2026-10-18T20:11:31", "event": "series_done", "path": "Z:\\Manga\\聲優廣播的台前幕後", "slug": "shengyouguangbodetaiqianmuhou"}
+{"time": "2026-10-18T20:11:34", "event": "series_start", "path": "Z:\\Manga\\純白少女的狼人殺_アジイチ_王月よう", "slug": "chunbaishaonvdelangrensha", "missing": 0, "remote_latest": "33"}
+{"time": "2026-10-18T20:11:34", "event": "series_done", "path": "Z:\\Manga\\純白少女的狼人殺_アジイチ_王月よう", "slug": "chunbaishaonvdelangrensha"}
+{"time": "2026-10-18T20:11:37", "event": "series_start", "path": "Z:\\Manga\\契約姐妹", "slug": "qiyuejiemei", "missing": 0, "remote_latest": "30"}
+{"time": "2026-10-18T20:11:37", "event": "series_done", "path": "Z:\\Manga\\契約姐妹", "slug": "qiyuejiemei"}
+{"time": "2026-10-18T20:11:40", "event": "series_start", "path": "Z:\\Manga\\Scavengers Another Sky", "slug": "scavengersanothersky", "missing": 0, "remote_latest": "34"}
+{"time": "2026-10-18T20:11:40", "event": "series_done", "path": "Z:\\Manga\\Scavengers Another Sky", "slug": "scavengersanothersky"}
+{"time": "2026-10-18T20:11:44", "event": "series_start", "path": "Z:\\Manga\\轉生王女和天才千金的魔法革命", "slug": "zhuanshengwangnvhetiancaiqianjindemofageming", "missing": 0, "remote_latest": "53"}
+{"time": "2026-10-18T20:11:44", "event": "series_done", "path": "Z:\\Manga\\轉生王女和天才千金的魔法革命", "slug": "zhuanshengwangnvhetiancaiqianjindemofageming"}
+{"time": "2026-10-18T20:11:47", "event": "series_start", "path": "Z:\\Manga\\即便在現實世界中也要讓我幸福哦？", "slug": "jibianzaixianshishzyyrwxfo", "missing": 0, "remote_latest": "22"}
+{"time": "2026-10-18T20:11:47", "event": "series_done", "path": "Z:\\Manga\\即便在現實世界中也要讓我幸福哦？", "slug": "jibianzaixianshishzyyrwxfo"}
+{"time": "2026-10-18T20:11:50", "event": "series_start", "path": "Z:\\Manga\\讓殘缺精靈變幸福的藥師", "slug": "rcqjlbxfdys", "missing": 0, "remote_latest": "62"}
+{"time": "2026-10-18T20:11:50", "event": "series_done", "path": "Z:\\Manga\\讓殘缺精靈變幸福的藥師", "slug": "rcqjlbxfdys"}
+{"time": "2026-10-18T20:11:53", "event": "series_start", "path": "Z:\\Manga\\在迷宮島上經營旅館吧！", "slug": "zaimigongdaoshangjingyinglvguanba", "missing": 5, "remote_latest": "48"}
+{"time": "2026-10-18T20:12:47", "event": "chapter_done", "path": "Z:\\Manga\\在迷宮島上經營旅館吧！", "slug": "zaimigongdaoshangjingyinglvguanba", "number": "44", "result": "已完成"}
+{"time": "2026-10-18T20:13:38", "event": "chapter_done", "path": "Z:\\Manga\\在迷宮島上經營旅館吧！", "slug": "zaimigongdaoshangjingyinglvguanba", "number": "45", "result": "已完成"}
+{"time": "2026-10-18T20:14:23", "event": "chapter_done", "path": "Z:\\Manga\\在迷宮島上經營旅館吧！", "slug": "zaimigongdaoshangjingyinglvguanba", "number": "46", "result": "已完成"}
+{"time": "2026-10-18T20:15:11", "event": "chapter_done", "path": "Z:\\Manga\\在迷宮島上經營旅館吧！", "slug": "zaimigongdaoshangjingyinglvguanba", "number": "47", "result": "已完成"}
+{"time": "2026-10-18T20:16:07", "event": "chapter_done", "path": "Z:\\Manga\\在迷宮島上經營旅館吧！", "slug": "zaimigongdaoshangjingyinglvguanba", "number": "48", "result": "已完成"}
+{"time": "2026-10-18T20:16:07", "event": "series_done", "path": "Z:\\Manga\\在迷宮島上經營旅館吧！", "slug": "zaimigongdaoshangjingyinglvguanba"}
+{"time": "2026-10-18T20:16:12", "event": "series_start", "path": "Z:\\Manga\\打了三百年的史萊姆，不知不覺就練到了滿等_森田季節_シバユウスケ", "slug": "dlsbnslmbzbjldlmd", "missing": 19, "remote_latest": "91.1"}
+{"time": "2026-10-18T20:16:33", "event": "chapter_done", "path": "Z:\\Manga\\打了三百年的史萊姆，不知不覺就練到了滿等_森田季節_シバユウスケ", "slug": "dlsbnslmbzbjldlmd", "number": "84.1", "result": "已完成"}
+{"time": "2026-10-18T20:16:53", "event": "chapter_done", "path": "Z:\\Manga\\打了三百年的史萊姆，不知不覺就練到了滿等_森田季節_シバユウスケ", "slug": "dlsbnslmbzbjldlmd", "number": "84.2", "result": "已完成"}
+{"time": "2026-10-18T20:17:12", "event": "chapter_done", "path": "Z:\\Manga\\打了三百年的史萊姆，不知不覺就練到了滿等_森田季節_シバユウスケ", "slug": "dlsbnslmbzbjldlmd", "number": "84.3", "result": "已完成"}
+{"time": "2026-10-18T20:17:34", "event": "chapter_done", "path": "Z:\\Manga\\打了三百年的史萊姆，不知不覺就練到了滿等_森田季節_シバユウスケ", "slug": "dlsbnslmbzbjldlmd", "number": "85.1", "result": "已完成"}
+{"time": "2026-10-18T20:17:55", "event": "chapter_done", "path": "Z:\\Manga\\打了三百年的史萊姆，不知不覺就練到了滿等_森田季節_シバユウスケ", "slug": "dlsbnslmbzbjldlmd", "number": "85.2", "result": "已完成"}
+{"time": "2026-10-18T20:18:14", "event": "chapter_done", "path": "Z:\\Manga\\打了三百年的史萊姆，不知不覺就練到了滿等_森田季節_シバユウスケ", "slug": "dlsbnslmbzbjldlmd", "number": "86.1", "result": "已完成"}
+{"time": "2026-10-18T20:18:33", "event": "chapter_done", "path": "Z:\\Manga\\打了三百年的史萊姆，不知不覺就練到了滿等_森田季節_シバユウスケ", "slug": "dlsbnslmbzbjldlmd", "number": "86.2", "result": "已完成"}
+{"time": "2026-10-18T20:18:52", "event": "chapter_done", "path": "Z:\\Manga\\打了三百年的史萊姆，不知不覺就練到了滿等_森田季節_シバユウスケ", "slug": "dlsbnslmbzbjldlmd", "number": "86.3", "result": "已完成"}
+{"time": "2026-10-18T20:19:17", "event": "chapter_done", "path": "Z:\\Manga\\打了三百年的史萊姆，不知不覺就練到了滿等_森田季節_シバユウスケ", "slug": "dlsbnslmbzbjldlmd", "number": "87.1", "result": "已完成"}
+{"time": "2026-10-18T20:19:38", "event": "chapter_done", "path": "Z:\\Manga\\打了三百年的史萊姆，不知不覺就練到了滿等_森田季節_シバユウスケ", "slug": "dlsbnslmbzbjldlmd", "number": "87.2", "result": "已完成"}
+{"time": "2026-10-18T20:20:05", "event": "chapter_done", "path": "Z:\\Manga\\打了三百年的史萊姆，不知不覺就練到了滿等_森田季節_シバユウスケ", "slug": "dlsbnslmbzbjldlmd", "number": "88.1", "result": "已完成"}
+{"time": "2026-10-18T20:20:26", "event": "chapter_done", "path": "Z:\\Manga\\打了三百年的史萊姆，不知不覺就練到了滿等_森田季節_シバユウスケ", "slug": "dlsbnslmbzbjldlmd", "number": "88.2", "result": "已完成"}
+{"time": "2026-10-18T20:20:47", "event": "chapter_done", "path": "Z:\\Manga\\打了三百年的史萊姆，不知不覺就練到了滿等_森田季節_シバユウスケ", "slug": "dlsbnslmbzbjldlmd", "number": "89.1", "result": "已完成"}
+{"time": "2026-10-18T20:21:06", "event": "chapter_done", "path": "Z:\\Manga\\打了三百年的史萊姆，不知不覺就練到了滿等_森田季節_シバユウスケ", "slug": "dlsbnslmbzbjldlmd", "number": "89.2", "result": "已完成"}
+{"time": "2026-10-18T20:21:27", "event": "chapter_done", "path": "Z:\\Manga\\打了三百年的史萊姆，不知不覺就練到了滿等_森田季節_シバユウスケ", "slug": "dlsbnslmbzbjldlmd", "number": "89.3", "result": "已完成"}
+{"time": "2026-10-18T20:21:50", "event": "chapter_done", "path": "Z:\\Manga\\打了三百年的史萊姆，不知不覺就練到了滿等_森田季節_シバユウスケ", "slug": "dlsbnslmbzbjldlmd", "number": "90.1", "result": "已完成"}
+{"time": "2026-10-18T20:22:14", "event": "chapter_done", "path": "Z:\\Manga\\打了三百年的史萊姆，不知不覺就練到了滿等_森田季節_シバユウスケ", "slug": "dlsbnslmbzbjldlmd", "number": "90.2", "result": "已完成"}
+{"time": "2026-10-18T20:22:37", "event": "chapter_done", "path": "Z:\\Manga\\打了三百年的史萊姆，不知不覺就練到了滿等_森田季節_シバユウスケ", "slug": "dlsbnslmbzbjldlmd", "number": "90.3", "result": "已完成"}
+{"time": "2026-10-18T20:23:03", "event": "chapter_done", "path": "Z:\\Manga\\打了三百年的史萊姆，不知不覺就練到了滿等_森田季節_シバユウスケ", "slug": "dlsbnslmbzbjldlmd", "number": "91.1", "result": "已完成"}
+{"time": "2026-10-18T20:23:03", "event": "series_done", "path": "Z:\\Manga\\打了三百年的史萊姆，不知不覺就練到了滿等_森田季節_シバユウスケ", "slug": "dlsbnslmbzbjldlmd"}
+{"time": "2026-10-18T20:23:06", "event": "series_start", "path": "Z:\\Manga\\里世界郊游", "slug": "lishijiejiaoyou", "missing": 19, "remote_latest": "93"}
+{"time": "2026-10-18T20:24:11", "event": "chapter_done", "path": "Z:\\Manga\\里世界郊游", "slug": "lishijiejiaoyou", "number": "75", "result": "已完成"}
+{"time": "2026-10-18T20:25:25", "event": "chapter_done", "path": "Z:\\Manga\\里世界郊游", "slug": "lishijiejiaoyou", "number": "76", "result": "已完成"}
+{"time": "2026-10-18T20:26:23", "event": "chapter_done", "path": "Z:\\Manga\\里世界郊游", "slug": "lishijiejiaoyou", "number": "77", "result": "已完成"}
+{"time": "2026-10-18T20:27:42", "event": "chapter_done", "path": "Z:\\Manga\\里世界郊游", "slug": "lishijiejiaoyou", "number": "78", "result": "已完成"}
+{"time": "2026-10-18T20:28:41", "event": "chapter_done", "path": "Z:\\Manga\\里世界郊游", "slug": "lishijiejiaoyou", "number": "79", "result": "已完成"}
+{"time": "2026-10-18T20:29:47", "event": "chapter_done", "path": "Z:\\Manga\\里世界郊游", "slug": "lishijiejiaoyou", "number": "80", "result": "已完成"}
+{"time": "2026-10-18T20:30:55", "event": "chapter_done", "path": "Z:\\Manga\\里世界郊游", "slug": "lishijiejiaoyou", "number": "81", "result": "已完成"}
+{"time": "2026-10-18T20:31:59", "event": "chapter_done", "path": "Z:\\Manga\\里世界郊游", "slug": "lishijiejiaoyou", "number": "82", "result": "已完成"}
+{"time": "2026-10-18T20:33:09", "event": "chapter_done", "path": "Z:\\Manga\\里世界郊游", "slug": "lishijiejiaoyou", "number": "83", "result": "已完成"}
+{"time": "2026-10-18T20:34:16", "event": "chapter_done", "path": "Z:\\Manga\\里世界郊游", "slug": "lishijiejiaoyou", "number": "84", "result": "已完成"}
+{"time": "2026-10-18T20:35:19", "event": "chapter_done", "path": "Z:\\Manga\\里世界郊游", "slug": "lishijiejiaoyou", "number": "85", "result": "已完成"}
+{"time": "2026-10-18T20:36:18", "event": "chapter_done", "path": "Z:\\Manga\\里世界郊游", "slug": "lishijiejiaoyou", "number": "86", "result": "已完成"}
+{"time": "2026-10-18T20:37:14", "event": "chapter_done", "path": "Z:\\Manga\\里世界郊游", "slug": "lishijiejiaoyou", "number": "87", "result": "已完成"}
+{"time": "2026-10-18T20:38:17", "event": "chapter_done", "path": "Z:\\Manga\\里世界郊游", "slug": "lishijiejiaoyou", "number": "88", "result": "已完成"}
+{"time": "2026-10-18T20:39:23", "event": "chapter_done", "path": "Z:\\Manga\\里世界郊游", "slug": "lishijiejiaoyou", "number": "89", "result": "已完成"}
+{"time": "2026-10-18T20:40:21", "event": "chapter_done", "path": "Z:\\Manga\\里世界郊游", "slug": "lishijiejiaoyou", "number": "90", "result": "已完成"}
+{"time": "2026-10-18T20:41:28", "event": "chapter_done", "path": "Z:\\Manga\\里世界郊游", "slug": "lishijiejiaoyou", "number": "91", "result": "已完成"}
+{"time": "2026-10-18T20:42:38", "event": "chapter_done", "path": "Z:\\Manga\\里世界郊游", "slug": "lishijiejiaoyou", "number": "92", "result": "已完成"}
+{"time": "2026-10-18T20:43:47", "event": "chapter_done", "path": "Z:\\Manga\\里世界郊游", "slug": "lishijiejiaoyou", "number": "93", "result": "已完成"}
+{"time": "2026-10-18T20:43:47", "event": "series_done", "path": "Z:\\Manga\\里世界郊游", "slug": "lishijiejiaoyou"}
+{"time": "2026-10-18T20:43:50", "event": "series_start", "path": "Z:\\Manga\\星靈感應", "slug": "xinglingganying", "missing": 19, "remote_latest": "71"}
+{"time": "2026-10-18T20:44:08", "event": "chapter_done", "path": "Z:\\Manga\\星靈感應", "slug": "xinglingganying", "number": "53", "result": "已完成"}
+{"time": "2026-10-18T20:44:28", "event": "chapter_done", "path": "Z:\\Manga\\星靈感應", "slug": "xinglingganying", "number": "54", "result": "已完成"}
+{"time": "2026-10-18T20:44:49", "event": "chapter_done", "path": "Z:\\Manga\\星靈感應", "slug": "xinglingganying", "number": "55", "result": "已完成"}
+{"time": "2026-10-18T20:45:12", "event": "chapter_done", "path": "Z:\\Manga\\星靈感應", "slug": "xinglingganying", "number": "56", "result": "已完成"}
+{"time": "2026-10-18T20:45:37", "event": "chapter_done", "path": "Z:\\Manga\\星靈感應", "slug": "xinglingganying", "number": "57", "result": "已完成"}
+{"time": "2026-10-18T20:46:02", "event": "chapter_done", "path": "Z:\\Manga\\星靈感應", "slug": "xinglingganying", "number": "58", "result": "已完成"}
+{"time": "2026-10-18T20:46:27", "event": "chapter_done", "path": "Z:\\Manga\\星靈感應", "slug": "xinglingganying", "number": "59", "result": "已完成"}
+{"time": "2026-10-18T20:46:48", "event": "chapter_done", "path": "Z:\\Manga\\星靈感應", "slug": "xinglingganying", "number": "60", "result": "已完成"}
+{"time": "2026-10-18T20:47:06", "event": "chapter_done", "path": "Z:\\Manga\\星靈感應", "slug": "xinglingganying", "number": "61", "result": "已完成"}
+{"time": "2026-10-18T20:47:31", "event": "chapter_done", "path": "Z:\\Manga\\星靈感應", "slug": "xinglingganying", "number": "62", "result": "已完成"}
+{"time": "2026-10-18T20:47:50", "event": "chapter_done", "path": "Z:\\Manga\\星靈感應", "slug": "xinglingganying", "number": "63", "result": "已完成"}
+{"time": "2026-10-18T20:48:12", "event": "chapter_done", "path": "Z:\\Manga\\星靈感應", "slug": "xinglingganying", "number": "64", "result": "已完成"}
+{"time": "2026-10-18T20:48:37", "event": "chapter_done", "path": "Z:\\Manga\\星靈感應", "slug": "xinglingganying", "number": "65", "result": "已完成"}
+{"time": "2026-10-18T20:49:11", "event": "chapter_done", "path": "Z:\\Manga\\星靈感應", "slug": "xinglingganying", "number": "66", "result": "已完成"}
+{"time": "2026-10-18T20:49:41", "event": "chapter_done", "path": "Z:\\Manga\\星靈感應", "slug": "xinglingganying", "number": "67", "result": "已完成"}
+{"time": "2026-10-18T20:50:09", "event": "chapter_done", "path": "Z:\\Manga\\星靈感應", "slug": "xinglingganying", "number": "68", "result": "已完成"}
+{"time": "2026-10-18T20:50:29", "event": "chapter_done", "path": "Z:\\Manga\\星靈感應", "slug": "xinglingganying", "number": "69", "result": "已完成"}
+{"time": "2026-10-18T20:50:51", "event": "chapter_done", "path": "Z:\\Manga\\星靈感應", "slug": "xinglingganying", "number": "70", "result": "已完成"}
+{"time": "2026-10-18T20:51:12", "event": "chapter_done", "path": "Z:\\Manga\\星靈感應", "slug": "xinglingganying", "number": "71", "result": "已完成"}
+{"time": "2026-10-18T20:51:12", "event": "series_done", "path": "Z:\\Manga\\星靈感應", "slug": "xinglingganying"}
+{"time": "2026-10-18T20:51:16", "event": "series_start", "path": "Z:\\Manga\\搖曳露營△", "slug": "yaoyeluying", "missing": 20, "remote_latest": "110"}
+{"time": "2026-10-18T20:52:04", "event": "chapter_done", "path": "Z:\\Manga\\搖曳露營△", "slug": "yaoyeluying", "number": "97", "result": "已完成"}
+{"time": "2026-10-18T20:52:52", "event": "chapter_done", "path": "Z:\\Manga\\搖曳露營△", "slug": "yaoyeluying", "number": "98", "result": "已完成"}
+{"time": "2026-10-18T20:53:44", "event": "chapter_done", "path": "Z:\\Manga\\搖曳露營△", "slug": "yaoyeluying", "number": "99", "result": "已完成"}
+{"time": "2026-10-18T20:54:32", "event": "chapter_done", "path": "Z:\\Manga\\搖曳露營△", "slug": "yaoyeluying", "number": "100", "result": "已完成"}
+{"time": "2026-10-18T20:55:25", "event": "chapter_done", "path": "Z:\\Manga\\搖曳露營△", "slug": "yaoyeluying", "number": "101", "result": "已完成"}
+{"time": "2026-10-18T20:56:21", "event": "chapter_done", "path": "Z:\\Manga\\搖曳露營△", "slug": "yaoyeluying", "number": "102", "result": "已完成"}
+{"time": "2026-10-18T20:57:14", "event": "chapter_done", "path": "Z:\\Manga\\搖曳露營△", "slug": "yaoyeluying", "number": "103", "result": "已完成"}
+{"time": "2026-10-18T20:58:06", "event": "chapter_done", "path": "Z:\\Manga\\搖曳露營△", "slug": "yaoyeluying", "number": "104", "result": "已完成"}
+{"time": "2026-10-18T20:58:37", "event": "fatal", "path": "Z:\\Manga\\搖曳露營△", "chapter": "105", "error": "sleep length must be non-negative"}
